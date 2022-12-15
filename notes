@@ -1,0 +1,4 @@
+CLI Prisma      => npm install prisma --save-dev
+Client Prisma   => npm install @prisma/client
+
+Dar continuidade na primeira aula aos 51:00 minutos.
