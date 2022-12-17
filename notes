@@ -3,5 +3,3 @@ Client Prisma   => npm install @prisma/client
 npx prisma init --datasource-provider SQLite
 npx prisma migrate dev
 npm run test
-
-dar continuidade na aula 02 em 43:30
