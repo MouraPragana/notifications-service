@@ -2,5 +2,6 @@ CLI Prisma      => npm install prisma --save-dev
 Client Prisma   => npm install @prisma/client
 npx prisma init --datasource-provider SQLite
 npx prisma migrate dev
+npm run test
 
-Dar continuidade na primeira aula aos 51:00 minutos.
+dar continuidade na aula 02 em 43:30
